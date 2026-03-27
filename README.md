@@ -7,7 +7,7 @@
 > ¹ Institut für Theoretische Physik, Leibniz Universität Hannover, Germany
 > ² VTT Technical Research Centre of Finland, Espoo, Finland
 >
-> 📄 [Paper (PDF)](paper/paper.pdf)
+> 📄 [Paper (PDF)](paper/mpo_picoGPT.pdf)
 
 ---
 
