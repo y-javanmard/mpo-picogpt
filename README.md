@@ -47,17 +47,7 @@ mpo-picogpt/
 ├── requirements.txt
 ├── LICENSE               # MIT
 ├── .gitignore
-├── figs/                 # Publication figures (PDF + PNG)
-│   ├── fig1_reconstruction_error.*
-│   ├── fig2_train_loss.*
-│   ├── fig3_val_loss.*
-│   ├── fig4_accuracy.*
-│   ├── fig5_pareto.*
-│   ├── fig_all_panels.*
-│   └── fig_mpo_diagram.*
-└── paper/
-    ├── main.tex          # Full LaTeX source (self-contained, TikZ diagram included)
-    └── paper.pdf         # Compiled paper
+
 ```
 
 ---
@@ -258,7 +248,7 @@ PyTorch autograd computes this automatically through the `tensordot` contraction
 ## Citation
 
 ```bibtex
-@article{javanmard2025mpo,
+@article{javanmard2026mpo,
   title   = {Compressing Transformer Language Models via
              Matrix Product Operator Decomposition:
              A Case Study on {PicoGPT}},
