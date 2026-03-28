@@ -55,7 +55,7 @@ mpo-picogpt/
 ## Installation
 
 ```bash
-git clone https://github.com/younesjavanmard/mpo-picogpt.git
+git clone https://github.com/y-javanmard/mpo-picogpt.git
 cd mpo-picogpt
 pip install -r requirements.txt
 ```
