@@ -2,13 +2,6 @@
 
 **Compressing Transformer Language Models via Matrix Product Operator Decomposition**
 
-> **Younes Javanmard**¹ · **Tanmoy Pandit**²
->
-> ¹ Institut für Theoretische Physik, Leibniz Universität Hannover, Germany
-> ² VTT Technical Research Centre of Finland, Espoo, Finland
-
-
-
 ---
 
 This repository contains the full PyTorch implementation for the paper:
